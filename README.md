@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @zhiou
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new programing language
+# Hi, I’m @zhiou👋
+- 👀 Interested in coding
+- 🌱 Learning to be great programmer
+- ✨ Losing weight
+
 
 <!---
 zhiou/zhiou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
