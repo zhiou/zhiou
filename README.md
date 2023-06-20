@@ -6,6 +6,36 @@
 - ✨ Losing weight
 - ✨ Raising a lovely 5-year-old son
 
+<h2> My GitHub Stats</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zhiou&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=zhiou&theme=algolia&hide_border=true" />
+    </td>                           
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhiou&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://stats.quine.sh/zhiou/github?theme=dark">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/zhiou/languages-over-time?theme=dark">
+    </td>
+  </tr>
+</table>
 
 <!---
 zhiou/zhiou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
