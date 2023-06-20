@@ -26,17 +26,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://stats.quine.sh/zhiou/github?theme=dark">
-    </td>
-    <td>
-      <img src="https://stats.quine.sh/zhiou/languages-over-time?theme=dark">
-    </td>
-  </tr>
-</table>
-
 <!---
 zhiou/zhiou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
