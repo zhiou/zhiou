@@ -2,9 +2,9 @@
 
 ### Hi, I’m @zhiou👋
 - 👀 Interested in coding
-- 🌱 Learning to be great programmer
 - ✨ Losing weight
-- ✨ Raising a lovely 5-year-old son
+- 🌱 Learning to be great programmer
+- ✨ Raising a lovely 6-year-old son
 
 <h2> My GitHub Stats</h2>
 <table>
